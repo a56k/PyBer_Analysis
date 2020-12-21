@@ -17,8 +17,6 @@ Ride Sharing Analysis by City Type, ride, etc
 
 https://github.com/a56k/PyBer_Analysis/blob/main/analysis/Challenge_fare_summary.png
 
-
-
     Brief, the summary graph shows similar linear trends for all three cities. The most significant variance occurs in February and March for all three cities. "Suburban" city experiences the most significant peak, as well as the sharpest drop in fare as compare to its counterpart. However, "Suburban" city seems to price higher fares in ($) for a more extended time toward the end of April, as the other two towns remain constant.
 
 ## Recommendations
